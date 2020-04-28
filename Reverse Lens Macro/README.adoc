@@ -1,0 +1,4 @@
+# Reverse Lens Macro
+
+ - `Fujian 50 mm × E-mount.FCStd` — adaptor for Fujian 50 mm lens to E-mount via C-mount rings.
+ AliExpress lot example: https://www.aliexpress.com/item/32813431080.html.
