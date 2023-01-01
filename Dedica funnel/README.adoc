@@ -1,0 +1,11 @@
+# DēLonghi Dedica portafilter funnel × 51 mm
+
+image:../.media/thingiverse.png[link="https://www.thingiverse.com/thing:6060545"]
+image:../.media/printables.png[link="https://www.printables.com/model/497784"]
+image:../.media/myminifactory.png[link="https://www.myminifactory.com/object/3d-print-d%C4%93longhi-dedica-portafilter-funnel-51-mm-301051"]
+image:../.media/thangs.png[link="https://thangs.com/mythangs/file/879817"]
+image:../.media/grabcad.png[link="https://grabcad.com/library/delonghi-dedica-portafilter-funnel-x-51-mm-1"]
+image:../.media/cults.png[link="https://cults3d.com/en/3d-model/home/delonghi-dedica-portafilter-funnel-x-51-mm"]
+image:../.media/youmagine.png[link="https://www.youmagine.com/designs/delonghi-dedica-portafilter-funnel-x-51-mm"]
+
+Cleaner espresso every time.
