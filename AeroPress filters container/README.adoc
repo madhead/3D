@@ -1,0 +1,11 @@
+# AeroPress filters container
+
+image:../.media/thingiverse.png[link="https://www.thingiverse.com/thing:6083116"]
+image:../.media/printables.png[link="https://www.printables.com/model/508177"]
+image:../.media/myminifactory.png[link="https://www.myminifactory.com/object/3d-print-aeropress-filters-container-304330"]
+image:../.media/thangs.png[link="https://thangs.com/mythangs/file/889548"]
+image:../.media/grabcad.png[link="https://grabcad.com/library/aeropress-filters-container-1"]
+image:../.media/cults.png[link="https://cults3d.com/en/3d-model/various/aeropress-filters-container"]
+image:../.media/youmagine.png[link="https://www.youmagine.com/designs/aeropress-filters-container"]
+
+The container that comes with the brewer constantly pops open. So, I've made a more secure one to let you Go and brew you cup wherever your adventures take you.
