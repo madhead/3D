@@ -7,7 +7,6 @@ image:../.media/thangs.png[link="https://thangs.com/model/41743"]
 image:../.media/grabcad.png[link="https://grabcad.com/library/jarvfjallet-office-chair-spine-protection-cap-1"]
 image:../.media/cults.png[link="https://cults3d.com/en/3d-model/home/jarvfjallet-office-chair-spine-protection-cap"]
 image:../.media/youmagine.png[link="https://www.youmagine.com/designs/jarvfjallet-office-chair-spine-protection-cap"]
-image:../.media/repables.png[link="https://repables.com/r/2179"]
 
 It's very easy to scratch the spine of your chair if you sit close to a wall. Or the wall.
 
