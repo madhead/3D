@@ -1,0 +1,5 @@
+# UHK 60 v2 palm rests
+
+Palm rests for https://ultimatehackingkeyboard.com/product/uhk60v2[UHK 60 v2].
+Not to be printed directly, but to be used as a base for other manufacturing methods.
+

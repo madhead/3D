@@ -4,8 +4,6 @@ Various designs for 3D-printing.
 
 * link:Fujian%2050%20mm%20%C3%97%20E-mount%20reverse%20lens%20macro%20adapter/README.adoc[Fujian 50 mm × E-mount reverse lens macro adapter]
 
-* link:IKEA%20LACK%203D%20printer%20enclosure/README.adoc[IKEA LACK 3D printer enclosure]
-
 * link:J%C3%84RVFJ%C3%84LLET%20spine%20protection%20cap/README.adoc[JÄRVFJÄLLET spine protection cap]
 image:.media/thingiverse.png[link="https://www.thingiverse.com/thing:5175805"]
 image:.media/printables.png[link="https://www.printables.com/model/356172-jarvfjallet-office-chair-spine-protection-cap"]
@@ -44,3 +42,5 @@ image:.media/thangs.png[link="https://thangs.com/mythangs/file/915103"]
 image:.media/grabcad.png[link="https://grabcad.com/library/calibration-cube-20-mm-1"]
 image:.media/cults.png[link="https://cults3d.com/:1373887"]
 image:.media/youmagine.png[link="https://www.youmagine.com/designs/calibration-cube-20-mm"]
+
+* link:UHK/README.adoc[Ultimate Hacking Keyboard palm rests]
