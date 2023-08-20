@@ -1,0 +1,14 @@
+# Cafelat Robot parts
+
+## Pressure gauge mount
+
+image:../.media/thingiverse.png[link="https://www.thingiverse.com/thing:6179313"]
+image:../.media/printables.png[link="https://www.printables.com/model/559134"]
+image:../.media/myminifactory.png[link="https://www.myminifactory.com/object/3d-print-cafelat-robot-pressure-gauge-mount-318946"]
+image:../.media/thangs.png[link="https://thangs.com/mythangs/file/921283"]
+image:../.media/grabcad.png[link="https://grabcad.com/library/cafelat-robot-pressure-gauge-mount-1"]
+image:../.media/cults.png[link="https://cults3d.com/en/3d-model/home/cafelat-robot-pressure-gauge-mount"]
+image:../.media/youmagine.png[link="https://www.youmagine.com/designs/cafelat-robot-pressure-gauge-mount"]
+
+A little piece to move the pressure gauge to the head of your Robot. No gauge disassembly needed! 
+
