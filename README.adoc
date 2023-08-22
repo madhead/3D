@@ -30,6 +30,16 @@ image:.media/grabcad.png[link="https://grabcad.com/library/cafelat-robot-pressur
 image:.media/cults.png[link="https://cults3d.com/en/3d-model/home/cafelat-robot-pressure-gauge-mount"]
 image:.media/youmagine.png[link="https://www.youmagine.com/designs/cafelat-robot-pressure-gauge-mount"]
 
+* link:Household/README.adoc[Household]
+** Parameterizable plinth clamp
+image:.media/thingiverse.png[link="https://www.thingiverse.com/thing:6181910"]
+image:.media/printables.png[link="https://www.printables.com/model/560641"]
+image:.media/myminifactory.png[link="https://www.myminifactory.com/object/3d-print-parameterizable-plinth-clamps-319243"]
+image:.media/thangs.png[link="https://thangs.com/mythangs/file/922154"]
+image:.media/grabcad.png[link="https://grabcad.com/library/parameterizable-plinth-clamps-1"]
+image:.media/cults.png[link="https://cults3d.com/en/3d-model/home/parameterizable-plinth-clamps"]
+image:.media/youmagine.png[link="https://www.youmagine.com/designs/parameterizable-plinth-clamp"]
+
 * link:J%C3%84RVFJ%C3%84LLET%20spine%20protection%20cap/README.adoc[JÄRVFJÄLLET spine protection cap]
 image:.media/thingiverse.png[link="https://www.thingiverse.com/thing:5175805"]
 image:.media/printables.png[link="https://www.printables.com/model/356172-jarvfjallet-office-chair-spine-protection-cap"]

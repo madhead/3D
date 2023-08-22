@@ -1,0 +1,14 @@
+# Household
+
+## Parameterizable plinth clamp
+
+image:../.media/thingiverse.png[link="https://www.thingiverse.com/thing:6181910"]
+image:../.media/printables.png[link="https://www.printables.com/model/560641"]
+image:../.media/myminifactory.png[link="https://www.myminifactory.com/object/3d-print-parameterizable-plinth-clamps-319243"]
+image:../.media/thangs.png[link="https://thangs.com/mythangs/file/922154"]
+image:../.media/grabcad.png[link="https://grabcad.com/library/parameterizable-plinth-clamps-1"]
+image:../.media/cults.png[link="https://cults3d.com/en/3d-model/home/parameterizable-plinth-clamps"]
+image:../.media/youmagine.png[link="https://www.youmagine.com/designs/parameterizable-plinth-clamp"]
+
+A little piece to clamp the plinth with adjustable parameters.
+
