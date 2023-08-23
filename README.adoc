@@ -1,3 +1,6 @@
 # 3D
 
 Various designs for 3D-printing, laser cutting and CNC.
+Like this 👇
+
+image::https://media.printables.com/media/prints/508177/images/4120836_e90e4b4d-45fa-40da-82de-65d39ccef90d/thumbs/inside/1280x960/jpg/aeropress.webp[] 
