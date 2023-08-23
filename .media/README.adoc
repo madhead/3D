@@ -1,0 +1,40 @@
+== Media
+
+== Preview images
+
+* Thingiverse
+** Tiles: 300 × 225
+** Pre-renders: 292 × 219
+** AR: 4:3
+
+* Printables
+** Tiles: 254.667 × 191
+** Pre-renders: 320 × 240
+** AR: 4:3
+
+* MyMiniFactory
+** Tiles: 289.75 × 289.75
+** Pre-renders: 720 × 720
+** AR: 1:1
+
+* Thangs
+** Tiles: 108.667 × 132.567
+** Pre-renders: vary, based on the original image size
+** AR: 9:11
+
+* GrabCAD
+** Tiles: 201.633 × 143.133
+** Pre-renders: 256 × 170
+** AR: 3:2
+
+* Cults3D
+** Tiles: 253 × 253
+** Pre-renders: 246 × 246
+** AR: 1:1
+** GIFs allowed!
+
+* YouMagine
+** Tiles: 348 × 200
+** Pre-renders: 370 × 247
+** AR: 3:2
+ 
