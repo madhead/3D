@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LightBurnLibrary>
+    <Material name="Cardboard">
+        <Entry Thickness="1.5000" Desc="Cut">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Cardboard/1.5000/Cut"/>
+                <maxPower Value="80"/>
+                <maxPower2 Value="20"/>
+                <speed Value="16.6667"/>
+                <numPasses Value="2"/>
+                <priority Value="0"/>
+                <tabCount Value="1"/>
+                <tabCountMax Value="1"/>
+            </CutSetting>
+        </Entry>
+    </Material>
     <Material name="Poplar / Lime plywood">
         <Entry Thickness="4.0000" Desc="Cut">
             <CutSetting type="Cut">
