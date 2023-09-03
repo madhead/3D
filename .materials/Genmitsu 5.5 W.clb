@@ -22,10 +22,10 @@
                 <index Value="0"/>
                 <name Value=""/>
                 <LinkPath Value="Poplar / Lime plywood/4.0000/Cut"/>
-                <maxPower Value="100"/>
+                <maxPower Value="80"/>
                 <maxPower2 Value="20"/>
-                <speed Value="5"/>
-                <numPasses Value="3"/>
+                <speed Value="3.33333"/>
+                <numPasses Value="2"/>
                 <priority Value="0"/>
                 <tabCount Value="1"/>
                 <tabCountMax Value="1"/>
