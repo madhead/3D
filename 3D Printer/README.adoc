@@ -1,0 +1,11 @@
+## Ender 5 Micro Swiss Direct Drive Cable Strain Relief
+
+image:../.media/thingiverse.png[link="https://www.thingiverse.com/thing:6223826"]
+image:../.media/printables.png[link="https://www.printables.com/model/584669"]
+image:../.media/grabcad.png[link="https://grabcad.com/library/ender-5-micro-swiss-direct-drive-cable-strain-relief-1"]
+image:../.media/thangs.png[link="https://than.gs/m/934781"]
+image:../.media/cults.png[link="https://cults3d.com/en/3d-model/tool/ender-5-micro-swiss-direct-drive-cable-strain-relief"]
+image:../.media/myminifactory.png[link="https://www.myminifactory.com/object/3d-print-ender-5-micro-swiss-direct-drive-cable-strain-relief-324905"]
+image:../.media/youmagine.png[link="https://www.youmagine.com/designs/ender-5-micro-swiss-direct-drive-cable-strain-relief"]
+
+Simple cable strain relief for the Micro Swiss Direct Drive (Ender 5 version).
