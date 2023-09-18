@@ -1,40 +1,85 @@
-== Media
+= Media
 
-== Preview images
+== TLDR
+
+Prepare these files (at minimum):
+
+. 1:1 (e.g. 960 × 960) cover GIF with a title
+. 4:3 (e.g. 1920 × 1440) cover PNG with a title
+. Zero or more 4:3 medias (PNG / GIF)
+. 3:2 (e.g. 960 × 640) cover GIF with a title
+. 9:11 (e.g. 900 × 1100) cover PNG with a title
+. 1.74:1 (e.g. 2048 × 1180) cover PNG with a title with 1.58:1 (1900 × 1200) safe area
+
+Media files are used for:
 
 * Thingiverse
-** Tiles: 300 × 225
-** Pre-renders: 292 × 219
-** AR: 4:3
+** 4:3 (e.g. 1920 × 1440) cover PNG with a title
+** Zero or more 4:3 medias (PNG / GIF)
 
 * Printables
-** Tiles: 254.667 × 191
-** Pre-renders: 320 × 240
-** AR: 4:3
-
-* MyMiniFactory
-** Tiles: 289.75 × 289.75
-** Pre-renders: 720 × 720
-** AR: 1:1
-
-* Thangs
-** Tiles: 108.667 × 132.567
-** Pre-renders: vary, based on the original image size
-** AR: 9:11
+** 4:3 (e.g. 1920 × 1440) cover PNG with a title
+** Zero or more 4:3 medias (PNG / GIF)
 
 * GrabCAD
-** Tiles: 201.633 × 143.133
-** Pre-renders: 256 × 170
-** AR: 3:2
+** 3:2 (e.g. 960 × 640) cover GIF with a title, used both as cover and regular media.
+** Any other 3:2 media would be fine.
 
 * Cults3D
-** Tiles: 253 × 253
-** Pre-renders: 246 × 246
-** AR: 1:1
-** GIFs allowed!
+** 1:1 (e.g. 960 × 960) cover GIF with a title, used both as cover and regular media.
+** Any other 3:2 media would be fine.
+** Platform's in-built model viewer only rotates the model in one axis (Z axis), so a GIF showing the model from all angles would be nice.
+
+* Thangs
+** 9:11 (e.g. 900 × 1100) cover PNG with a title
+** Any other 9:11 static media would be fine.
+
+* MyMiniFactory
+** 1:1 static medias.
 
 * YouMagine
-** Tiles: 348 × 200
-** Pre-renders: 370 × 247
-** AR: 3:2
- 
+** 1.74:1 (with safe 1.58:1 area) static medias.
+
+== Aspect Ratios
+
+* Thingiverse
+** Tiles: 300 × 225, 4:3
+** Model page: 740 × 500, cropped, 4:3
+** GIFs are allowed as media, but not as covers
+
+* Printables
+** Tiles: 254.667 × 191, ~4:3
+** Model page: 640 × 480, 4:3
+** GIFs are allowed as media, but not as covers
+
+* GrabCAD
+** Tiles: 201.633 × 143.133, 3:2
+** Model page: 825 × 550, 3:2
+** GIFs are fully supported!
+
+* Cults3D
+** Tiles: 253 × 253, 1:1
+** Model page: 516 × 516, 1:1
+** GIFs are fully supported!
+
+* Thangs
+** __Image dimensions should be at least 336x410px, with a 1 / 1.22 aspect ratio for best results.__
+** AR: 9:11 (1 / 1.22)
+** GIFs are not allowed
+
+* MyMiniFactory
+** Tiles: 289.75 × 289.75, 1:1
+** Model page: 734.4 × 734.4, 1:1
+** GIFs are not allowed
+
+* YouMagine
+** Tiles: 348 × 200, 1.74:1
+** Model page: 760 × 480, 1.58:1
+** GIFs are allowed, but not supported
+
+== Aspect Ratios to sizes
+
+3:2 → 1920 × 1280
+4:3 → 1920 × 1440
+1:1 → 1920 × 1920
+9:11 → 900 × 1100
