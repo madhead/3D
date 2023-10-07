@@ -1,2 +1,6 @@
 *.FCStd1
 *.FCBak
+
+# Temporary files used to create previews
+*.preview.blend
+*.preview.svg
