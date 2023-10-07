@@ -11,4 +11,3 @@ image:../.media/cults.png[link="https://cults3d.com/en/3d-model/home/cafelat-rob
 image:../.media/youmagine.png[link="https://www.youmagine.com/designs/cafelat-robot-pressure-gauge-mount"]
 
 A little piece to move the pressure gauge to the head of your Robot. No gauge disassembly needed! 
-

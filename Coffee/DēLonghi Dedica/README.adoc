@@ -1,4 +1,6 @@
-# DēLonghi Dedica portafilter funnel × 51 mm
+# DēLonghi Dedica
+
+## Portafilter funnel × 51 mm
 
 image:../.media/thingiverse.png[link="https://www.thingiverse.com/thing:6060545"]
 image:../.media/printables.png[link="https://www.printables.com/model/497784"]

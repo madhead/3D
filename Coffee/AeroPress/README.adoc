@@ -1,4 +1,6 @@
-# AeroPress filters container
+# AeroPress
+
+## AeroPress filters container
 
 image:../.media/thingiverse.png[link="https://www.thingiverse.com/thing:6083116"]
 image:../.media/printables.png[link="https://www.printables.com/model/508177"]
