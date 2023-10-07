@@ -1,0 +1,8 @@
+# BESTÅ enclosure
+
+Turn https://www.ikea.com/gb/en/cat/besta-frames-12151[IKEA BESTÅ] (60×40×64) into a https://www.sainsmart.com/collections/new-genmitsu-collection/products/genmitsu-3018-prover-v2-upgraded-semi-assembled-cnc-router-kit[3018] enclosure!
+
+The upgrade includes:
+
+* 100 mm inline extraction fan with with a rocker switch
+* IKEA's VATTENSTEN LED light strip
