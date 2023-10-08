@@ -13,3 +13,5 @@ image:../.media/youmagine.png[link="https://www.youmagine.com/designs/jarvfjalle
 It's very easy to scratch the spine of your chair if you sit close to a wall. Or the wall.
 
 This cap potentially protects both (if printed with a flexible resin) or the chair (if printed with a hard plastic).
+
+## VATTENSTEN clip
