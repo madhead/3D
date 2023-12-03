@@ -1,7 +1,7 @@
 # Coffee
 
-## link:./Cafelat%20Robot[Cafelat Robot parts]
-
 ## link:./AeroPress[AeroPress parts]
+
+## link:./Cafelat%20Robot[Cafelat Robot parts]
 
 ## link:./DēLonghi%20Dedica[DēLonghi Dedica parts]
