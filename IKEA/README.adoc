@@ -1,5 +1,3 @@
-#IKEA
-
 ## JÄRVFJÄLLET spine protection cap
 
 image:../.media/thingiverse.png[link="https://www.thingiverse.com/thing:5175805"]
@@ -15,3 +13,5 @@ It's very easy to scratch the spine of your chair if you sit close to a wall. Or
 This cap potentially protects both (if printed with a flexible resin) or the chair (if printed with a hard plastic).
 
 ## VATTENSTEN clip
+
+Just a clip for a LED strip, but with some extra thought put into it.
