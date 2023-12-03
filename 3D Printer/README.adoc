@@ -9,3 +9,16 @@ image:../.media/myminifactory.png[link="https://www.myminifactory.com/object/3d-
 image:../.media/youmagine.png[link="https://www.youmagine.com/designs/ender-5-micro-swiss-direct-drive-cable-strain-relief"]
 
 Simple cable strain relief for the Micro Swiss Direct Drive (Ender 5 version).
+
+## Filament / dust filter
+
+image:../.media/thingiverse.png[link="https://www.thingiverse.com/thing:6348684"]
+image:../.media/printables.png[link="https://www.printables.com/model/667738"]
+image:../.media/makerworld.png[link="https://makerworld.com/en/models/81600"]
+image:../.media/grabcad.png[link="https://grabcad.com/library/filament-dust-filter-2"]
+image:../.media/thangs.png[link="https://than.gs/m/971791"]
+image:../.media/cults.png[link="https://cults3d.com/en/3d-model/tool/filament-dust-filter-madhead"]
+image:../.media/myminifactory.png[link="https://www.myminifactory.com/object/3d-print-filament-dust-filter-342366"]
+image:../.media/youmagine.png[link="https://www.youmagine.com/designs/filament-dust-filter-21-30"]
+
+Yet another filament dust filter here. The best one, if you ask me!
