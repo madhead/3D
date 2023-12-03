@@ -22,3 +22,7 @@ image:../.media/myminifactory.png[link="https://www.myminifactory.com/object/3d-
 image:../.media/youmagine.png[link="https://www.youmagine.com/designs/filament-dust-filter-21-30"]
 
 Yet another filament dust filter here. The best one, if you ask me!
+
+## Tools holder
+
+An opinionated tools holder mounted on a 40 × 20 extrusion profile.
