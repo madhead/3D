@@ -5,11 +5,13 @@
 Prepare these files (at minimum):
 
 . 1:1 (e.g. 960 × 960) cover GIF with a title
+. 1:1 (e.g. 1920 × 1920) cover PNG with a title
 . 4:3 (e.g. 1920 × 1440) cover PNG with a title
+. 4:3 (e.g. 960 × 720) cover GIF with a title
 . Zero or more 4:3 medias (PNG / GIF)
 . 3:2 (e.g. 960 × 640) cover GIF with a title
 . 9:11 (e.g. 900 × 1100) cover PNG with a title
-. 1.74:1 (e.g. 2048 × 1180) cover PNG with a title with 1.58:1 (1900 × 1200) safe area
+. 1.74:1 (e.g. 2048 × 1180) cover PNG with a title with 1.58:1 (1900W) safe area
 
 Media files are used for:
 
@@ -19,6 +21,10 @@ Media files are used for:
 
 * Printables
 ** 4:3 (e.g. 1920 × 1440) cover PNG with a title
+** Zero or more 4:3 medias (PNG / GIF)
+
+* MakerWorld
+** 4:3 (e.g. 960 × 720) cover GIF with a title, used both as cover and regular media.
 ** Zero or more 4:3 medias (PNG / GIF)
 
 * GrabCAD
@@ -51,6 +57,11 @@ Media files are used for:
 ** Tiles: 254.667 × 191, ~4:3
 ** Model page: 640 × 480, 4:3
 ** GIFs are allowed as media, but not as covers
+
+* MakerWorld
+** Tiles: 246 × 184.5, 262.8 × 197.1, both sizes are 4:3
+** Model page: 660 × 495, 4:3
+** GIFs are fully supported!
 
 * GrabCAD
 ** Tiles: 201.633 × 143.133, 3:2
