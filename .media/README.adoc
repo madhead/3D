@@ -12,6 +12,7 @@ Prepare these files (at minimum):
 . 3:2 (e.g. 960 × 640) cover GIF with a title
 . 9:11 (e.g. 900 × 1100) cover PNG with a title
 . 1.74:1 (e.g. 2048 × 1180) cover PNG with a title with 1.58:1 (1900W) safe area
+. 16:9 (e.g. 1280 × 720) cover PNG
 
 Media files are used for:
 
@@ -45,6 +46,11 @@ Media files are used for:
 
 * YouMagine
 ** 1.74:1 (with safe 1.58:1 area) static medias.
+
+* Gumroad
+** 16:9 (e.g. 1280 × 720) cover PNG without a title
+** Zero or more 1:1 medias (PNG / GIF).
+__This image appears in the Gumroad Library, Discover and Profile pages.__
 
 == Aspect Ratios
 
@@ -88,9 +94,15 @@ Media files are used for:
 ** Model page: 760 × 480, 1.58:1
 ** GIFs are allowed, but not supported
 
+* Gumroad
+** Cover: 1280 × 720, 16:9
+** Tiles: 600 × 600 and higher, 1:1
+** GIFs are allowed
+
 == Aspect Ratios to sizes
 
 3:2 → 1920 × 1280
 4:3 → 1920 × 1440
 1:1 → 1920 × 1920
 9:11 → 900 × 1100
+16:9 → 1280 × 720
