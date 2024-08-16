@@ -1,0 +1,36 @@
+= FreeRunner
+
+FreeRunner is an https://en.wikipedia.org/wiki/Open-source_hardware[OSHW] 3D-printed balance bike for kids.
+
+== Disclaimer
+
+Wait, what?
+A 3D-printed balance bike?
+**Is it safe?**
+
+Probably, not!
+
+FreeRunner is provided as a project for personal use and educational purposes only.
+The design and materials used in the construction of this balance bike may not meet any safety standards.
+By choosing to construct and/or use FreeRunner, you acknowledge and agree to the following:
+
+No Warranty::
+FreeRunner is provided "as is" without any express or implied warranties.
+
+Assumption of Risk::
+The construction and use of FreeRunner involve risks that could result in injury or even death.
+By assembling or using FreeRunner, you assume all risks associated with its construction, assembly, and use, including but not limited to risks of structural failure, instability, and material defects.
+
+No Liability::
+The creators, designers, and distributors of FreeRunner shall not be held liable for any direct, indirect, incidental, consequential, or punitive damages arising from the use, misuse, or inability to use the balance bike, including any injury, death, or property damage.
+
+Adult Supervision Required::
+FreeRunner is not intended for use by children without close adult supervision.
+It is your responsibility to ensure that any child using FreeRunner does so under the guidance and supervision of a responsible adult.
+
+Modification and Use::
+Any modification to the design or materials of FreeRunner is done at your own risk.
+The creators and designers are not responsible for any issues that may arise from such modifications.
+
+By downloading, printing, assembling, or using FreeRunner, you agree to the terms and conditions outlined in this disclaimer.
+If you do not agree to these terms, do not proceed with the use of this project.
