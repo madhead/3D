@@ -1,4 +1,14 @@
-= FreeRunner
+++++
+<div align="center">
+    <picture>
+        <source media="(prefers-color-scheme: dark)"  width="640" srcset="./branding/freerunner%20dark.svg">
+        <source media="(prefers-color-scheme: light)" width="640" srcset="./branding/freerunner%20light.svg">
+        <img src="https://github.com">
+    </picture>
+</div>
+++++
+
+'''
 
 FreeRunner is an https://en.wikipedia.org/wiki/Open-source_hardware[OSHW] 3D-printed balance bike for kids.
 
