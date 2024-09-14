@@ -1,0 +1,3 @@
+== Filter threads
+
+Refer to the https://github.com/toddmunro/Fusion-360-Lens-Filter-Threads[toddmunro/Fusion-360-Lens-Filter-Threads] for the filter thread sizes.
